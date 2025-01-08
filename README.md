@@ -6,7 +6,7 @@ step 1: Open VsCode.
 
 step 2: Open terminal.
 
-step 3: write: git clone https://github.com/DiogoWernek/Pdf2ImagePython.git
+step 3: write: git clone https://github.com/DiogoWernek/Pdf2Image.git
 
 step 4: install the library: pip install pdf2image.
 
