@@ -1,7 +1,8 @@
-import os
+import os 
 from pdf2image import convert_from_path
 
-diretorio = "C:\\meu_diretorio\\"
+# Caminho que estão os PDF's, neste mesmo caminho serão salvo os pdf's, importante que seja uma pasta separada para não confundir
+diretorio = "C:\\meu_diretorio\\" 
 
 dirs = os.listdir(diretorio)
 
